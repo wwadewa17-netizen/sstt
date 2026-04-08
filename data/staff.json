@@ -1,0 +1,7 @@
+[
+  {
+    "email": "staff@ts.com",
+    "password": "1234",
+    "perms": ["dorders", "dproducts"]
+  }
+]
